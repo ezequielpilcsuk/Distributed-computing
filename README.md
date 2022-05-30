@@ -10,7 +10,9 @@ https://go.dev/doc/
 ## Compilando o programa:
 A partir da pasta A1. Execute primeiramente o servidor e então as instâncias de clientes.
 Para rodar o servidor:
+
 	go run server/src/server.go
 
 Para rodar o cliente:
+
 	go run client/src/client.go
