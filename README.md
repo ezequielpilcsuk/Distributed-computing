@@ -1,4 +1,4 @@
-# ** Como Rodar:**
+#  Como Rodar:
 
 ## Instalando a linguagem:
 A atividade é feita na última versão da linguagem Golang (go1.18.2). O link para instalação da linguagem pode ser encontrado em:
